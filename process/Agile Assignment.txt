@@ -1,0 +1,27 @@
+Task 1: Logging
+Log Book
+- log how much time you spend on each activity and which persons in your group does what.
+
+
+Scrum Master Report
+- each week specifying how much each person has worked and on what task
+
+
+Commit Comment
+1. Developers: [name_Developer1], [name_Developer2]
+
+2. Time: [Ideal_time_HH:MM]
+
+3. Use Case: [UserStory_Nr_from_Pivotal], [Name_of_Us]
+
+
+
+We think that in the best case we need 3 days to finish a task, most likely this is going to be 5, but in the worst 
+scenario, in case where we need to perform much more work because not all the details would be provided, we believe that 
+it is going to take 10 days.
+
+
+Workload
+=========
+https://activecollab.com/blog/project-management/2016/10/26/agile-reporting-sprint-report-case-study
+
