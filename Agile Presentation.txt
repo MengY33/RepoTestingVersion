@@ -1,0 +1,20 @@
+Firstly, I have to create a user story for login and logout function. Give a story title, as short & simple as possible.
+The story type is Feature because login is a feature. And then estimates how difficulty of completing this user story. 
+1 point indicates easy. This description means that only allowed authorized users to use our system.
+
+Current/Backlog is holding the user stories that you're working on and you also can prioritized the user stories which 
+means which story you have to do first and which story you have to in next.
+
+Start means developers satrted to working on it (coding & testing). 
+Finish means developers had done this feature. (coding & testing)
+Deliver means deliver the story in acceptance environment. 
+
+Accept the user story means it is considers done. If rejected, you have to restart the user story.
+
+
+
+Before you can start a story, you must estimate the difficulty of completing at. 
+1 point indicates easy.
+2 point indicates medium.
+4 point indicates hard.
+8 point indicates huge.
