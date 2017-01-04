@@ -15,7 +15,7 @@ public class JavaApplication1 {
         
         System.out.println("Hello");
         
-        //System.out.println("Merry Christmas");
+        System.out.println("Merry Christmas");
     }
     
 }
